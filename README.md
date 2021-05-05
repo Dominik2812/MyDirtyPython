@@ -1,7 +1,7 @@
 # MyDirtyPython
 
 ## Why dirty?
-...cause it's not clean. The projects that I present here are very ambitious beginner projects that are however not optimized, contain no error handling and do not follow the *pep8* conventions. But I posted them anyway as they have been extremely useful for me, either from the didactic point of view or in terms of solving real world challenges; perhaps this applies also to you. The project **separation of overlapping particles on low contrast images** was even used in my former company for quality management.  
+...cause it's not clean. The projects that I present here are very ambitious beginner projects that are however not optimized, contain no error handling and do not follow the *pep8* conventions. But I posted them anyway as they have been extremely useful for me, either from the didactic point of view or in terms of solving real world challenges; perhaps this applies also to you too. The project **separation of overlapping particles on low contrast images** was even used in my former company for quality management.  
 
 ## Content
 
