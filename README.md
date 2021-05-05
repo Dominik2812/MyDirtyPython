@@ -15,7 +15,7 @@ Interesting also for people who wonder about "How to diminish the error triggere
 My personal naive beginners approach on how to find clearly separated object on a black-white image; the pearlchain mechanism. 
 Interesting also for people "who just start to learn Python"
 
-![Output Image_1](output_1_single_circles_pearlchain.jpg?raw=true "Output Image_1")
+![Output Image_1](Python-Image-Recognition-Pearl_Chain_Mechanism/output_1_single_circles_pearlchain.jpg?raw=true "Output Image_1")
 
 ### 3. OOP-CoronaSimulation: 
 
