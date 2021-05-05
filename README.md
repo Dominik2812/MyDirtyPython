@@ -1,7 +1,9 @@
 # MyDirtyPython
-![Output Image](Python-Image-Recognition-separation-of-overlapping-particles-on-low-contrast-images/Output_MONO.JPG?raw=true "Output Image Monodisperse")
+
 ## Why dirty?
 ...cause it's not clean. The projects that I present here are very ambitious beginner projects that are however not optimized, contain no error handling and do not follow the *pep8* conventions. But I posted them anyway as they have been extremely useful for me, either from the didactic point of view or in terms of solving real world challenges; perhaps this applies also to you. The project **separation of overlapping particles on low contrast images** was even used in my former company for quality management.  
+
+
 
 ## Content
 
@@ -9,9 +11,13 @@
 This App solved a real world problem in my old company; Rapid and precise size distribution of plastic beads. 
 Interesting also for people who wonder about "How to diminish the error triggered of overlapping particles and how integrate matplotlib histogramms into image analysis"
 
+![Output Image](Python-Image-Recognition-separation-of-overlapping-particles-on-low-contrast-images/Output_MONO.JPG?raw=true "Output Image Monodisperse")
+
 ### 2. Pearl_Chain methode to detect circular objects in an image: 
 My own approach to simple image recognition problems; the PearlChainMEchanism. 
 Interesting also for people "who just start to learn Python"
+
+![Output Image_1](output_1_single_circles_pearlchain.jpg?raw=true "Output Image_1")
 
 ### 3. OOP-CoronaSimulation: 
 
