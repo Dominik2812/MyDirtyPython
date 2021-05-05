@@ -8,13 +8,13 @@
 ## Content
 
 ### 1. separation of overlapping particles on low contrast images: 
-This App solved a real world problem in my old company; Rapid and precise size distribution of plastic beads. 
+This Code solved a real world problem in my old company; get rapid and precise size distribution of plastic beads. 
 Interesting also for people who wonder about "How to diminish the error triggered of overlapping particles and how integrate matplotlib histogramms into image analysis"
 
 ![Output Image](Python-Image-Recognition-separation-of-overlapping-particles-on-low-contrast-images/Output_MONO.JPG?raw=true "Output Image Monodisperse")
 
 ### 2. Pearl_Chain methode to detect circular objects in an image: 
-My own approach to simple image recognition problems; the PearlChainMEchanism. 
+My personal naive beginners approach on how to find clearly separated object on a black-white image; the pearlchain mechanism. 
 Interesting also for people "who just start to learn Python"
 
 ![Output Image_1](output_1_single_circles_pearlchain.jpg?raw=true "Output Image_1")
